@@ -7,3 +7,23 @@
 * {
     font-family: "vazir";
 }
+
+body {
+    background-color: rgb(113, 117, 117);
+}
+
+.header {
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+.gap {
+    margin-left: 50px;
+}
