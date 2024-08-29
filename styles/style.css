@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "vazir";
+    src: url("../fonts/vazir/Vazir-Light.ttf");
+}
+
+/* ستاره یعنی تمام المنت هایی که داخل سند اچ تی ام المون هست رو برو و سلکت کن */
+* {
+    font-family: "vazir";
+}
