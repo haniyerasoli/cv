@@ -27,3 +27,31 @@ a {
 .gap {
     margin-left: 50px;
 }
+
+.img > img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: solid 20px white;
+    outline: solid 1px black;
+}
+
+.content > .img {
+    width: 50vw;
+}
+
+.content > .name {
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    width: 50vw;
+}
+
+h1 {
+    margin: 0px;
+}
+
+p {
+    text-align: justify;
+    direction: rtl;
+}
